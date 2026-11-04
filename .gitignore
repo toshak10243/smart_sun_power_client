@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+.dart_tool/
+.packages
+
+# Build outputs
+dist/
+build/
+*.apk
+*.aab
+
+# Environment & Logs
+.env
+.env.*
+*.log
+*.tar.gz
+*.sql
+.DS_Store
+Thumbs.db
